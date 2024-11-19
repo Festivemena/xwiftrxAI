@@ -22,11 +22,11 @@ export default function Mid() {
         </a>
         <a
           className="rounded-full border border-solid border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-sm sm:text-base h-12 px-5 sm:px-7 sm:min-w-44"
-          href="#whitepaper"
+          href="#roadmap"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Read the Whitepaper
+          See Roadmap
         </a>
       </div>
     </div>
