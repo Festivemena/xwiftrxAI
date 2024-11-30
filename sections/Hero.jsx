@@ -40,7 +40,7 @@ const Hero = () => (
         <img
           src="/xwai.png"
           alt="Hero Cover"
-          className="w-full sm:hidden h-[350px] object-cover z-10 relative"
+          className="w-full sm:hidden h-[500px] object-cover z-10 relative"
         />
         {/* Image for Medium and Larger Screens */}
         <img
