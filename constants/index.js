@@ -2,27 +2,37 @@ export const exploreWorlds = [
   {
     id: 'world-1',
     imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    label: 'Q1',
+    title: 'Concept Development',
+    color: '#4285A7',
   },
   {
     id: 'world-2',
     imgUrl: '/planet-02.png',
-    title: 'The Upside Down',
+    label: 'Q2',
+    title: 'MVP Development',
+    color: '#69BB9F',
   },
   {
     id: 'world-3',
     imgUrl: '/planet-03.png',
-    title: 'Kadirojo Permai',
+    label: 'Q3',
+    title: 'Token Launch & Initial Adoption',
+    color: '#5E81A9',
   },
   {
     id: 'world-4',
     imgUrl: '/planet-04.png',
-    title: 'Paradise Island',
+    label: 'Q4',
+    title: 'Utility and Ecosystem Development',
+    color: '#F9CDA6',
   },
   {
     id: 'world-5',
     imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
+    label: 'Q5',
+    title: 'Product Launch',
+    color: '#322A48',
   },
 ];
 
