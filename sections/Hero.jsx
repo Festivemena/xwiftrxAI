@@ -1,6 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
+import Image from 'next/image';
 
 import styles from '../styles';
 import { slideIn, staggerContainer, textVariant } from '../utils/motion';
@@ -37,13 +38,13 @@ const Hero = () => (
         className="relative w-full md:-mt-[20px] -mt-[12px]"
       >
         {/* Image for Small Screens */}
-        <img
+        <Image
           src="/xwai.png"
           alt="Hero Cover"
           className="w-full sm:hidden h-[500px] object-cover z-10 relative"
         />
         {/* Image for Medium and Larger Screens */}
-        <img
+        <Image
           src="/xwai.png"
           alt="Hero Cover"
           className="hidden ml-96 sm:block sm:h-[500px] object-cover z-10 relative"
@@ -57,7 +58,7 @@ const Hero = () => (
             rel="noopener noreferrer"
             aria-label="Explore Xwiftrx Meme"
           >
-            <img
+            <Image
               src="/stamp.png"
               alt="Explore Stamp"
               className="sm:w-[155px] w-[100px] sm:h-[155px] h-[100px] object-contain"
