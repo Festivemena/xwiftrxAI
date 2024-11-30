@@ -18,7 +18,7 @@ export const exploreWorlds = [
     imgUrl: '/planet-03.png',
     label: 'Q3',
     title: 'Token Launch & Initial Adoption',
-    color: '#5E81A9',
+    color: '#ED6C60',
   },
   {
     id: 'world-4',
