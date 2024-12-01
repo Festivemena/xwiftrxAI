@@ -59,7 +59,7 @@ const Hero = () => (
             aria-label="Explore Xwiftrx Meme"
           >
             <Image
-              src="/IMG_8580.png"
+              src="/img_8580.png"
               alt="Explore Stamp"
               className="sm:w-[155px] w-[100px] sm:h-[155px] h-[100px] object-contain"
             />
