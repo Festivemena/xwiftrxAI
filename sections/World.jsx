@@ -20,7 +20,7 @@ const World = () => (
       <TypingText title="| People on the World" textStyles="text-center" />
       <TitleText
         title={(
-          <>Bolstering records of users around the World
+          <>
           </>
         )}
         textStyles="text-center"
